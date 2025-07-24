@@ -3,8 +3,8 @@ header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type");
 header("Access-Control-Allow-Methods", "POST, GET, PUT, DELETE, OPTIONS");
 /*
- * Backend que se encarga de construir los productos desde la empresa
- * Carlos Estarita
+ * se encarga de construir los productos desde la empresa
+ * 
  * API RESTFUL 
  */
 require_once '../models/config.php';
